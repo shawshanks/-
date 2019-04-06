@@ -1,4 +1,6 @@
 # 我的博客
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)  :+1:
+
 [shawshanks的博客](https://shawshanks.github.io/)
 ## 怎样建立一个博客和迁移
 
